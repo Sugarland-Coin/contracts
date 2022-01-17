@@ -1,1 +1,1 @@
-# contracts
+# Repo for Sugarland Smart Contracts
